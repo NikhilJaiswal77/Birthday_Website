@@ -11,4 +11,4 @@ function showMessage() {
     confetti.style.animationDuration = (Math.random() * 3 + 2) + 's';
     confetti.style.animationDelay = Math.random() + 's';
     document.body.appendChild(confetti);
-  }1
+  }
